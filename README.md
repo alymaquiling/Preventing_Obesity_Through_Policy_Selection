@@ -8,7 +8,7 @@ According to the CDC:
 * Obesity-related conditions include heart disease, stroke, type 2 diabetes and certain types of cancer that are some of the leading causes of preventable, premature death.
 * The estimated annual medical cost of obesity in the United States was $147 billion in 2008 US dollars; the medical cost for people who have obesity was $1,429 higher than those of normal weight. 
 
-[Source](https://www.cdc.gov/obesity/data/adult.html): Adult Obesity Facts, 2020
+[Source: CDC Adult Obesity Facts, 2020](https://www.cdc.gov/obesity/data/adult.html)
 
 Although this is a health epidemic occuring all across America, this is impacting certain states more than others. About half of the states that make up the U.S.A. had an obesity rate of 30% in American adults in 2018. However, the process of establishing and implementing new laws is a costly endeavor and state budgets are limited-- thus decision-makers must prioritize legislation that is more likely to have a significant impact on fighting obesity and lowering these rates. Therefore, by using data mining, we can aid lawmakers in narrowing down their options.
 
