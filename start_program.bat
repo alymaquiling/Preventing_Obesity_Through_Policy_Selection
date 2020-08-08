@@ -1,0 +1,1 @@
+start /max cmd.exe /k "mode con cols=500 lines=10000 && setup_project.bat && deactivate"
